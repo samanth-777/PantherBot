@@ -1,4 +1,4 @@
-# PantherBot – UWM Course Catalog Chatbot
+# PantherBot 
 
 PantherBot is an AI-powered chatbot that helps UWM students instantly find course information such as prerequisites, credits, descriptions, and catalog links.  
 It uses Retrieval-Augmented Generation (RAG) with a local vector database (ChromaDB) plus an OpenAI model, and exposes a simple chat interface built in Streamlit.
